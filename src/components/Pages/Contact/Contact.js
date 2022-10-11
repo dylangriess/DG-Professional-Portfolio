@@ -7,7 +7,7 @@ function Contact() {
     <div className="fade-in-top">
       <div className="header">Contact</div>
       <div className="container">
-        <div class="row">
+        <div className="row">
           <div className="formBox col-12">
             <Form />
           </div>
