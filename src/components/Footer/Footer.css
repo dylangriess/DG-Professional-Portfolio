@@ -1,0 +1,9 @@
+.footerP {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  justify-content: center;
+  background: none;
+  color: #a6d1df;
+}

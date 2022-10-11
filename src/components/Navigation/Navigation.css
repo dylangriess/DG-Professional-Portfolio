@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 5px auto;
+}
+
+button {
+  width: 16vw;
+  font-size: 16vw;
+  color: #a6d1df;
+  border: 1px #a6d1df;
+  text-align: center;
+  justify-content: center;
+}
+
+button:hover {
+  transition: 0.3s;
+  box-shadow: 0px 0px 1px 3px #aaaaaa;
+  background-color: #828282;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .button {
+    width: 90vw;
+    height: 50px;
+    margin: 5px;
+  }
+}
