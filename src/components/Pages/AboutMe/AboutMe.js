@@ -8,6 +8,7 @@ import {
   DiReact,
   DiBootstrap,
   DiMysql,
+  DiVisualstudio,
 } from "react-icons/di";
 import { SiExpress, SiHandlebarsdotjs, SiGraphql } from "react-icons/si";
 import "./AboutMe.css";
@@ -49,6 +50,10 @@ function AboutMe() {
         <div className="iconList">
           <DiJsBadge className="icons" />
           Javascript
+        </div>
+        <div className="iconList">
+          <DiVisualstudio className="icons" />
+          Visual Studio
         </div>
         <div className="iconList">
           <DiNodejsSmall className="icons" />

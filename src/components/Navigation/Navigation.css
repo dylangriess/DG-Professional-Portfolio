@@ -24,12 +24,17 @@ button:hover {
 
 @media screen and (max-width: 768px) {
   .navbar {
+    display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    max-height: 20vh;
   }
   .button {
     width: 90vw;
-    height: 50px;
-    margin: 5px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+    padding: 0;
   }
 }

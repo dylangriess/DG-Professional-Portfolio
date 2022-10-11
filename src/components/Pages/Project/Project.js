@@ -10,13 +10,13 @@ import EmployeeTracker from "./images/EmployeeTracker.png";
 function Project() {
   return (
     <div className="container fade-in-top">
-      <h1 className="header">My Projects</h1>
+      <h1 className="projectHeader">My Projects</h1>
       <div className="projectCards">
         <Row className="justify-content-center">
           <Col xs={12} md={6}>
             <div className="card">
               <img
-                class="card-img-top"
+                className="card-img-top"
                 src={Middlewhere}
                 alt="Card image cap"
               />
@@ -46,7 +46,7 @@ function Project() {
           <Col xs={12} md={6}>
             <div className="card">
               <img
-                class="card-img-top"
+                className="card-img-top"
                 src={SpaceInvaders}
                 alt="Card image cap"
               />
@@ -78,7 +78,7 @@ function Project() {
           <Col xs={12} md={6}>
             <div className="card">
               <img
-                class="card-img-top"
+                className="card-img-top"
                 src={SocialNetwork}
                 alt="Card image cap"
               />
@@ -108,7 +108,7 @@ function Project() {
           <Col xs={12} md={6}>
             <div className="card">
               <img
-                class="card-img-top"
+                className="card-img-top"
                 src={EmployeeTracker}
                 alt="Card image cap"
               />
