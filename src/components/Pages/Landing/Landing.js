@@ -2,9 +2,9 @@ import React from "react";
 import "./Landing.css";
 function Landing() {
   return (
-    <div className="container">
-      <h1 className="title tracking-in-expand no-wrap">DYLAN</h1>
-      <h1 className="title tracking-in-expand no-wrap">GRIESS</h1>
+    <div className="container landing">
+      <span className="title tracking-in-expand no-wrap">DYLAN</span>
+      <span className="title tracking-in-expand no-wrap">GRIESS</span>
       <h2 className="description tracking-in-expand-fwd-bottom">
         Full Stack Web Developer
       </h2>

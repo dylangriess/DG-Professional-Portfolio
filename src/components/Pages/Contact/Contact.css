@@ -163,6 +163,7 @@ li {
     border: 1px white solid;
     justify-content: space-between;
     height: 50vh;
+    width: 90vw;
   }
 
   .formBox {
