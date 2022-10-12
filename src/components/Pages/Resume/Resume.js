@@ -4,7 +4,7 @@ import resume from "./images/Resume.pdf";
 
 function Resume() {
   return (
-    <div className="container fade-in-top">
+    <div className="container fade-in-top resume">
       <h1>Resume</h1>
 
       <a href={resume} download>
