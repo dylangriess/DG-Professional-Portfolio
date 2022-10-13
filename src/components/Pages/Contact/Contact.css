@@ -171,12 +171,15 @@ li {
     position: relative;
     top: -15vh;
   }
-
+  .contactLinks h2 {
+    font-size: 1.25rem;
+  }
   .form {
     font-size: 1rem;
     justify-content: center;
-    margin: 50px 25px;
+    margin: 50px 15px;
   }
+
   .form input {
     display: block;
     margin-top: 20px;
@@ -185,14 +188,14 @@ li {
   }
   .contactLinks ul,
   li {
-    margin-top: 10px;
+    margin-top: 20px;
     padding: 0;
     list-style: none;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
   .contactLinks {
     justify-content: center;
-    margin: 50px 20px;
+    margin: 50px -5px;
   }
 }
