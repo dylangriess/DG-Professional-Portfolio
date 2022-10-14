@@ -5,7 +5,7 @@ import "./Navigation.css";
 function Navigation() {
   return (
     <div className="navbar">
-      <Link to="/">
+      <Link to="/DG-Professional-Portfolio">
         <button className="btn btn-outline-light button" type="button">
           Home
         </button>
