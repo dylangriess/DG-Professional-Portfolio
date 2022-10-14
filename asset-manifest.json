@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/css/main.e543c1c4.css",
-    "main.js": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/js/main.9711e0b5.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/SocialNetwork.png": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/media/SocialNetwork.a29b66fdee7991cfe9fd.png",
-    "static/media/middlewhere.png": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/media/middlewhere.e29efde94dc2b66acc86.png",
-    "static/media/portfolioBg.jpeg": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/media/portfolioBg.bf68b1f10b69650d8452.jpeg",
-    "static/media/SpaceInvaders.jpg": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/media/SpaceInvaders.d1520bc74d22ac69c6c6.jpg",
-    "static/media/EmployeeTracker.png": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/media/EmployeeTracker.3ce5c23156ab4841ca2d.png",
-    "static/media/Resume.pdf": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/media/Resume.81fa7fa293909502f3df.pdf",
-    "index.html": "/https//dylangriess.github.io/DG-Professional-Portfolio/index.html",
-    "main.e543c1c4.css.map": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/css/main.e543c1c4.css.map",
-    "main.9711e0b5.js.map": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/js/main.9711e0b5.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/https//dylangriess.github.io/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/DG-Professional-Portfolio/static/css/main.b6d5be67.css",
+    "main.js": "/DG-Professional-Portfolio/static/js/main.01c65c69.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/SocialNetwork.png": "/DG-Professional-Portfolio/static/media/SocialNetwork.a29b66fdee7991cfe9fd.png",
+    "static/media/middlewhere.png": "/DG-Professional-Portfolio/static/media/middlewhere.e29efde94dc2b66acc86.png",
+    "static/media/portfolioBg.jpeg": "/DG-Professional-Portfolio/static/media/portfolioBg.bf68b1f10b69650d8452.jpeg",
+    "static/media/SpaceInvaders.jpg": "/DG-Professional-Portfolio/static/media/SpaceInvaders.d1520bc74d22ac69c6c6.jpg",
+    "static/media/EmployeeTracker.png": "/DG-Professional-Portfolio/static/media/EmployeeTracker.3ce5c23156ab4841ca2d.png",
+    "static/media/Resume.pdf": "/DG-Professional-Portfolio/static/media/Resume.81fa7fa293909502f3df.pdf",
+    "index.html": "/DG-Professional-Portfolio/index.html",
+    "main.b6d5be67.css.map": "/DG-Professional-Portfolio/static/css/main.b6d5be67.css.map",
+    "main.01c65c69.js.map": "/DG-Professional-Portfolio/static/js/main.01c65c69.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e543c1c4.css",
-    "static/js/main.9711e0b5.js"
+    "static/css/main.b6d5be67.css",
+    "static/js/main.01c65c69.js"
   ]
 }
