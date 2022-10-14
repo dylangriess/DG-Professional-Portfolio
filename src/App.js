@@ -17,7 +17,7 @@ function App() {
         <Header />
         <div className="flex-column min-100-vh text-light">
           <Routes>
-            <Route path="/" element={<Landing />} />
+            <Route path="/DG-Professional-Portfolio" element={<Landing />} />
             <Route path="/AboutMe" element={<AboutMe />} />
             <Route path="/Projects" element={<Project />} />
             <Route path="/Contact" element={<Contact />} />
