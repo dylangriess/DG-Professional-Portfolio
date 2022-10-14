@@ -10,22 +10,22 @@ function Navigation() {
           Home
         </button>
       </Link>
-      <Link to="/DG-Professional-Portfolio/AboutMe">
+      <Link to="/AboutMe">
         <button className="btn btn-outline-light button" type="button">
           About
         </button>
       </Link>
-      <Link to="/DG-Professional-Portfolio/Projects">
+      <Link to="/Projects">
         <button className="btn btn-outline-light button" type="button">
           Projects
         </button>
       </Link>
-      <Link to="/DG-Professional-Portfolio/Contact">
+      <Link to="/Contact">
         <button className="btn btn-outline-light button" type="button">
           Contact
         </button>
       </Link>
-      <Link to="/DG-Professional-Portfolio/Resume">
+      <Link to="/Resume">
         <button className="btn btn-outline-light button" type="button">
           Resume
         </button>

@@ -18,22 +18,10 @@ function App() {
         <div className="flex-column min-100-vh text-light">
           <Routes>
             <Route path="/DG-Professional-Portfolio" element={<Landing />} />
-            <Route
-              path="/DG-Professional-Portfolio/AboutMe"
-              element={<AboutMe />}
-            />
-            <Route
-              path="/DG-Professional-Portfolio/Projects"
-              element={<Project />}
-            />
-            <Route
-              path="/DG-Professional-Portfolio/Contact"
-              element={<Contact />}
-            />
-            <Route
-              path="/DG-Professional-Portfolio/Resume"
-              element={<Resume />}
-            />
+            <Route path="/AboutMe" element={<AboutMe />} />
+            <Route path="/Projects" element={<Project />} />
+            <Route path="/Contact" element={<Contact />} />
+            <Route path="/Resume" element={<Resume />} />
           </Routes>
         </div>
         <Footer />
