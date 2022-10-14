@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DG-Professional-Portfolio/static/css/main.423400e7.css",
+    "main.css": "/DG-Professional-Portfolio/static/css/main.42dab418.css",
     "main.js": "/DG-Professional-Portfolio/static/js/main.998b4d4a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/SocialNetwork.png": "/DG-Professional-Portfolio/static/media/SocialNetwork.a29b66fdee7991cfe9fd.png",
@@ -10,12 +10,12 @@
     "static/media/EmployeeTracker.png": "/DG-Professional-Portfolio/static/media/EmployeeTracker.3ce5c23156ab4841ca2d.png",
     "static/media/Resume.pdf": "/DG-Professional-Portfolio/static/media/Resume.81fa7fa293909502f3df.pdf",
     "index.html": "/DG-Professional-Portfolio/index.html",
-    "main.423400e7.css.map": "/DG-Professional-Portfolio/static/css/main.423400e7.css.map",
+    "main.42dab418.css.map": "/DG-Professional-Portfolio/static/css/main.42dab418.css.map",
     "main.998b4d4a.js.map": "/DG-Professional-Portfolio/static/js/main.998b4d4a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.423400e7.css",
+    "static/css/main.42dab418.css",
     "static/js/main.998b4d4a.js"
   ]
 }
