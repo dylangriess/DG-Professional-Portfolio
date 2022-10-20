@@ -1,12 +1,14 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import "../Pages/Contact/Contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { AiOutlineLinkedin, AiOutlineGithub } from "react-icons/ai";
 
 // Here we import a helper function that will check if the email is valid
 import { validateEmail } from "../../utils/helpers";
+import emailjs from "@emailjs/browser";
 
 function Form() {
+  const form = useRef();
   // Create state variables for the fields in the form
   // We are also setting their initial values to an empty string
   const [email, setEmail] = useState("");
@@ -57,12 +59,27 @@ function Form() {
       messageSent.classList.add("show");
       messageSent.textContent = "Message Sent!";
     }
+    emailjs
+      .sendForm(
+        "service_3kqt04i",
+        "template_xioxfpa",
+        form.current,
+        "kvMnIIAD_dh1CLzw8"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
   };
 
   return (
     <>
       <div className="contactPage">
-        <form className="form">
+        <form className="form" ref={form}>
           <h2>Reach Out!</h2>
           <input
             value={email}
