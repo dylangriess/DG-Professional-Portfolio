@@ -57,40 +57,37 @@ function Project() {
   return (
     <div className="container fade-in-top">
       <h1 className="projectHeader">My Projects</h1>
-      <div className="projectCards">
-        <Row className="justify-content-center">
-          <Col xs={12} md={6}>
-            <div className="card">
-              <img
-                className="card-img-top"
-                src={Middlewhere}
-                alt="Card image cap"
-              />
-              <div className="card-body">
-                <h5 className="card-title">MiddleWhere</h5>
-                <p className="card-text">
-                  A social app that will help groups find their centralized
-                  geolocation to meet up with friends or colleages.
-                </p>
-                <a
-                  href="https://github.com/l1keafox/middleWhere"
-                  target="_blank"
-                  className="card-link"
-                >
-                  Github
-                </a>
-                <a
-                  href="https://limitless-temple-38712.herokuapp.com/"
-                  target="_blank"
-                  className="card-link"
-                >
-                  Deploy
-                </a>
+      <Row className="justify-content-center">
+        <Col xs={12} md={6}>
+          {projects.map((projects) => (
+            <div className="projectCards">
+              <div className="card">
+                <img
+                  className="card-img-top"
+                  src={projects.img}
+                  alt="Project screenshot"
+                />
+                <div className="card-body">
+                  <h5 className="card-title">{projects.title}</h5>
+                  <p className="card-text">{projects.description}</p>
+                  <a href={projects.repo} target="_blank" className="card-link">
+                    Github
+                  </a>
+                  <a
+                    href={projects.livelink}
+                    target="_blank"
+                    className="card-link"
+                  >
+                    Deploy
+                  </a>
+                </div>
               </div>
             </div>
-          </Col>
-        </Row>
-      </div>
+          ))}
+        </Col>
+      </Row>
     </div>
   );
 }
+
+export default Project;

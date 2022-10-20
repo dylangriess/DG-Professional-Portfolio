@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Navigation.css";
-// In Navbar, we can assign a style from an object by using curly braces
+
 function Navigation() {
   return (
     <div className="navbar">
