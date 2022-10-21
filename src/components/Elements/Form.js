@@ -82,18 +82,18 @@ function Form() {
         <form className="form" ref={form}>
           <h2>Reach Out!</h2>
           <input
-            value={email}
-            name="email"
-            onChange={handleInputChange}
-            type="email"
-            placeholder="Email"
-          />
-          <input
             value={name}
             name="name"
             onChange={handleInputChange}
             type="text"
             placeholder="Name"
+          />
+          <input
+            value={email}
+            name="email"
+            onChange={handleInputChange}
+            type="email"
+            placeholder="Email"
           />
           <input
             value={message}
@@ -103,7 +103,7 @@ function Form() {
             placeholder="Enter Message"
           />
           <button
-            className="submitButton"
+            className="submitButton btn-outline-light btn"
             type="button"
             onClick={handleFormSubmit}
           >

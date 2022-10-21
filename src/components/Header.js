@@ -6,7 +6,8 @@ const styles = {
   header: {
     background: "dark",
     minHeight: "10vh",
-    opacity: "50%",
+    opacity: "100%",
+    width: "100%",
   },
 };
 
