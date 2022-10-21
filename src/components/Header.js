@@ -6,14 +6,17 @@ const styles = {
   header: {
     background: "dark",
     minHeight: "10vh",
-    opacity: "100%",
-    width: "100%",
+    width: "90%",
+    marginRight: "50px",
   },
 };
 
 function Header() {
   return (
-    <div className="d-flex align-items-end" style={styles.header}>
+    <div
+      className="d-flex align-items-end justify-content-end"
+      style={styles.header}
+    >
       <Navigation />
     </div>
   );

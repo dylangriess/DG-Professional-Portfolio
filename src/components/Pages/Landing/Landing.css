@@ -110,14 +110,16 @@
 
 @media screen and (max-width: 768px) {
   .title {
-    font-size: 20vw;
+    font-size: 25vw;
     text-align: center;
+    margin: 0px;
   }
   .description {
     font-size: 5vw;
     text-align: center;
+    margin-top: 20px;
   }
   .landing {
-    justify-content: flex-start;
+    justify-content: center;
   }
 }
