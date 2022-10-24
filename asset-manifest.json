@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/DG-Professional-Portfolio/static/css/main.01adf8df.css",
-    "main.js": "/DG-Professional-Portfolio/static/js/main.e79a6b68.js",
+    "main.css": "/DG-Professional-Portfolio/static/css/main.84658cf5.css",
+    "main.js": "/DG-Professional-Portfolio/static/js/main.ceffdef7.js",
     "static/js/787.c4e7f8f9.chunk.js": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/SocialNetwork.png": "/DG-Professional-Portfolio/static/media/SocialNetwork.a29b66fdee7991cfe9fd.png",
     "static/media/theRegistry.jpg": "/DG-Professional-Portfolio/static/media/theRegistry.d2fd17d21fbce760e24f.jpg",
+    "static/media/ResumeScreenshot.png": "/DG-Professional-Portfolio/static/media/ResumeScreenshot.4dae5f76a58aa39fe635.png",
     "static/media/middlewhere.png": "/DG-Professional-Portfolio/static/media/middlewhere.e29efde94dc2b66acc86.png",
     "static/media/portfolioBg.jpeg": "/DG-Professional-Portfolio/static/media/portfolioBg.bf68b1f10b69650d8452.jpeg",
     "static/media/SpaceInvaders.jpg": "/DG-Professional-Portfolio/static/media/SpaceInvaders.d1520bc74d22ac69c6c6.jpg",
     "static/media/EmployeeTracker.png": "/DG-Professional-Portfolio/static/media/EmployeeTracker.3ce5c23156ab4841ca2d.png",
-    "static/media/Resume.pdf": "/DG-Professional-Portfolio/static/media/Resume.81fa7fa293909502f3df.pdf",
+    "static/media/GriessResume2022.pdf": "/DG-Professional-Portfolio/static/media/GriessResume2022.67760b59742345508308.pdf",
     "index.html": "/DG-Professional-Portfolio/index.html",
-    "main.01adf8df.css.map": "/DG-Professional-Portfolio/static/css/main.01adf8df.css.map",
-    "main.e79a6b68.js.map": "/DG-Professional-Portfolio/static/js/main.e79a6b68.js.map",
+    "main.84658cf5.css.map": "/DG-Professional-Portfolio/static/css/main.84658cf5.css.map",
+    "main.ceffdef7.js.map": "/DG-Professional-Portfolio/static/js/main.ceffdef7.js.map",
     "787.c4e7f8f9.chunk.js.map": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01adf8df.css",
-    "static/js/main.e79a6b68.js"
+    "static/css/main.84658cf5.css",
+    "static/js/main.ceffdef7.js"
   ]
 }
