@@ -1,12 +1,13 @@
 import React from "react";
 import "./Resume.css";
-import resume from "./images/Resume.pdf";
+import resumeimg from "./assets/ResumeScreenshot.png";
+import resume from "./assets/GriessResume2022.pdf";
 
 function Resume() {
   return (
     <div className="container fade-in-top resume">
       <h1>Resume</h1>
-
+      <img src={resumeimg} className="resume" />
       <a href={resume} download>
         <button className="btn btn-outline-light">Click to Download</button>
       </a>
