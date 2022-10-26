@@ -61,10 +61,10 @@ function Form() {
     }
     emailjs
       .sendForm(
-        "service_3kqt04i",
-        "template_xioxfpa",
+        process.env.REACT_APP_SERVICE_ID,
+        process.env.REACT_APP_TEMPLATE_ID,
         form.current,
-        "kvMnIIAD_dh1CLzw8"
+        process.env.REACT_APP_USER_ID
       )
       .then(
         (result) => {
@@ -74,6 +74,7 @@ function Form() {
           console.log(error.text);
         }
       );
+    e.target.reset();
   };
 
   return (
