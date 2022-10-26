@@ -3,6 +3,7 @@
 }
 body {
   background-image: url(./images/portfolioBg.jpeg);
+  background-attachment: fixed;
 }
 
 .App {
