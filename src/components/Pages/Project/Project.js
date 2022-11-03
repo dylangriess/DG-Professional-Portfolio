@@ -14,7 +14,7 @@ function Project() {
     {
       img: ATGScreenshot,
       title: "ATG Workouts",
-      description: <span style={{ color: "red" }}>"IN PROGRESS!"</span>,
+      description: <span style={{ color: "red" }}>IN PROGRESS!</span>,
       repo: "https://github.com/dylangriess/ATG-Workout",
       livelink: "https://dylangriess.github.io/ATG-Workout/",
     },
