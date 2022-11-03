@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DG-Professional-Portfolio/static/css/main.04823641.css",
-    "main.js": "/DG-Professional-Portfolio/static/js/main.1dd71942.js",
+    "main.js": "/DG-Professional-Portfolio/static/js/main.7a5777f6.js",
     "static/js/787.c4e7f8f9.chunk.js": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/ATGScreenshot.png": "/DG-Professional-Portfolio/static/media/ATGScreenshot.8a8887ca3053b6f7ee74.png",
     "static/media/SocialNetwork.png": "/DG-Professional-Portfolio/static/media/SocialNetwork.a29b66fdee7991cfe9fd.png",
@@ -14,11 +14,11 @@
     "static/media/GriessResume2022.pdf": "/DG-Professional-Portfolio/static/media/GriessResume2022.3a0262fdb77f6561e457.pdf",
     "index.html": "/DG-Professional-Portfolio/index.html",
     "main.04823641.css.map": "/DG-Professional-Portfolio/static/css/main.04823641.css.map",
-    "main.1dd71942.js.map": "/DG-Professional-Portfolio/static/js/main.1dd71942.js.map",
+    "main.7a5777f6.js.map": "/DG-Professional-Portfolio/static/js/main.7a5777f6.js.map",
     "787.c4e7f8f9.chunk.js.map": "/DG-Professional-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04823641.css",
-    "static/js/main.1dd71942.js"
+    "static/js/main.7a5777f6.js"
   ]
 }
