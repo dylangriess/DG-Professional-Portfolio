@@ -11,19 +11,19 @@ import ATGScreenshot from "./images/ATGScreenshot.png";
 
 function Project() {
   const projects = [
-    {
-      img: ATGScreenshot,
-      title: "ATG Workouts",
-      description: (
-        <span style={{ color: "red" }}>
-          IN PROGRESS! A React app to promote a friend on his journey to become
-          a certified personal trainer while showcasing my ability to create an
-          independent front end application using React and Material UI.
-        </span>
-      ),
-      repo: "https://github.com/dylangriess/ATG-Workout",
-      livelink: null,
-    },
+    // {
+    //   img: ATGScreenshot,
+    //   title: "ATG Workouts",
+    //   description: (
+    //     <span style={{ color: "red" }}>
+    //       IN PROGRESS! A React app to promote a friend on his journey to become
+    //       a certified personal trainer while showcasing my ability to create an
+    //       independent front end application using React and Material UI.
+    //     </span>
+    //   ),
+    //   repo: "https://github.com/dylangriess/ATG-Workout",
+    //   livelink: "https://dylangriess.github.io/ATG-Workout/",
+    // },
     {
       img: MiddlewhereImage,
       title: "Middlewhere",
