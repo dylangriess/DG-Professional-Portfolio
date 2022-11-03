@@ -7,11 +7,12 @@ import SpaceInvadersImage from "./images/SpaceInvaders.jpg";
 import SocialNetworkImage from "./images/SocialNetwork.png";
 import EmployeeTrackerImage from "./images/EmployeeTracker.png";
 import RegistryImage from "./images/theRegistry.jpg";
+import ATGScreenshot from "./images/ATGScreenshot.png";
 
 function Project() {
   const projects = [
     {
-      img: MiddlewhereImage,
+      img: ATGScreenshot,
       title: "ATG Workouts",
       description: <span style={{ color: "red" }}>"IN PROGRESS!"</span>,
       repo: "https://github.com/dylangriess/ATG-Workout",
