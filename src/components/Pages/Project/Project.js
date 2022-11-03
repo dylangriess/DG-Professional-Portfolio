@@ -12,6 +12,13 @@ function Project() {
   const projects = [
     {
       img: MiddlewhereImage,
+      title: "ATG Workouts",
+      description: <span style={{ color: "red" }}>"IN PROGRESS!"</span>,
+      repo: "https://github.com/dylangriess/ATG-Workout",
+      livelink: "https://dylangriess.github.io/ATG-Workout/",
+    },
+    {
+      img: MiddlewhereImage,
       title: "Middlewhere",
       description:
         "A social app utilizing Google API to help groups find their centralized geolocation to meet up with friends or colleagues.",
