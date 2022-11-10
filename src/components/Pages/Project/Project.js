@@ -23,7 +23,7 @@ function Project() {
     //   ),
     //   repo: "https://github.com/dylangriess/ATG-Workout",
     //   livelink: "https://dylangriess.github.io/ATG-Workout/",
-    // },
+    // },/
     {
       img: MiddlewhereImage,
       title: "Middlewhere",
