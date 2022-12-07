@@ -3,6 +3,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./Project.css";
 import MiddlewhereImage from "./images/middlewhere.png";
+import Middlewhere2 from "./images/MiddleWhere2.0.jpg";
 import SpaceInvadersImage from "./images/SpaceInvaders.jpg";
 import SocialNetworkImage from "./images/SocialNetwork.png";
 import EmployeeTrackerImage from "./images/EmployeeTracker.png";
@@ -25,12 +26,12 @@ function Project() {
     //   livelink: "https://dylangriess.github.io/ATG-Workout/",
     // },/
     {
-      img: MiddlewhereImage,
-      title: "Middlewhere",
+      img: Middlewhere2,
+      title: "Middlewhere 2.0",
       description:
-        "A social app utilizing Google API to help groups find their centralized geolocation to meet up with friends or colleagues.",
-      repo: "https://github.com/l1keafox/middleWhere",
-      livelink: "https://limitless-temple-38712.herokuapp.com/",
+        "A completely revamped application using MERN stack based on a previous bootcamp project. A social app to meet with friends!",
+      repo: "https://github.com/l1keafox/reMiddleWhere",
+      livelink: "https://mymiddlewhere.herokuapp.com/",
     },
     {
       img: RegistryImage,
@@ -39,6 +40,14 @@ function Project() {
         "The Registry is a full stack application that allows friends and family members access to a gift registry for new parents, a recent graduate, or newlyweds.",
       repo: "https://github.com/dylangriess/The-Registry",
       livelink: "https://whispering-coast-62095.herokuapp.com/",
+    },
+    {
+      img: MiddlewhereImage,
+      title: "Middlewhere",
+      description:
+        "A social app utilizing Google API to help groups find their centralized geolocation to meet up with friends or colleagues.",
+      repo: "https://github.com/l1keafox/middleWhere",
+      livelink: "https://limitless-temple-38712.herokuapp.com/",
     },
     {
       img: SpaceInvadersImage,
